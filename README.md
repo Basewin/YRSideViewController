@@ -1,5 +1,5 @@
 ###Introduction
-
+https://github.com/YueRuo
 支持Cocoapods安装
 
 	   pod 'YRSideViewController', '~> 1.0.4'
